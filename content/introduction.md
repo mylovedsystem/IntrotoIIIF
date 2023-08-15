@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Introduction
-nav_order: 4
+title: Module 1
+nav_order: 2
 ---
-# Introduction
+# Module 1: What is IIIF?
+
 Placeholder for first page of lesson
