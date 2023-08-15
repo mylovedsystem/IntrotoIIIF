@@ -1,3 +1,5 @@
+nav_exclude: true
+
 ---
 layout: default
 nav_order: 2
