@@ -1,4 +1,3 @@
-nav_exclude: true
 ---
 layout: default
 title: Acknowledgements
