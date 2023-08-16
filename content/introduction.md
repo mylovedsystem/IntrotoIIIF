@@ -18,8 +18,12 @@ By the end of this module, you will be able to:
 Activity: Reflection
 Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved? {: .prereq}
 
-Please create a GitHub account and install Bash and Git before the workshop. See Setup for instructions. {: .prereq}
+<p>Supports IE8 too!</p>
 
-
-{: .highlight 
-A paragraph }
+<ul class="callouts">
+  <li class="callouts--top">Activity: Reflection
+Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved?</li>
+  <li class="callouts--bottom"></li>
+  <li class="callouts--left"></li>
+  <li class="callouts--right"></li>
+</ul>
