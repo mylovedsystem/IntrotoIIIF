@@ -15,9 +15,10 @@ By the end of this module, you will be able to:
 2. Understand the IIIF Manifest
 3. Recognize the four APIs of IIIF
 
-{: .highlight 
 Activity: Reflection
-Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved? }
+Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved? {: .prereq}
+
+Please create a GitHub account and install Bash and Git before the workshop. See Setup for instructions. {: .prereq}
 
 
 {: .highlight 
