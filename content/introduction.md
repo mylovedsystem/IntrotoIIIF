@@ -15,15 +15,8 @@ By the end of this module, you will be able to:
 2. Understand the IIIF Manifest
 3. Recognize the four APIs of IIIF
 
+
+::: {.callout-note}
 Activity: Reflection
-Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved? {: .prereq}
-
-<p>Supports IE8 too!</p>
-
-<ul class="callouts">
-  <li class="callouts--top">Activity: Reflection
-Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved?</li>
-  <li class="callouts--bottom"></li>
-  <li class="callouts--left"></li>
-  <li class="callouts--right"></li>
-</ul>
+Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved?
+:::
