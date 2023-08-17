@@ -17,4 +17,4 @@ A paragraph
 
 
 Don't step on the snails!
-{: .warn}
+{: .warn-THIS}
