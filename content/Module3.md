@@ -23,13 +23,14 @@ By the end of this module, you will be able to:
 *       Pull up an image on IIIF using the Mirador viewer 
 *       Create an oval annotation on image through IIIF using the Mirador viewer
 *       Recognize and be able to use most, if not all, of the dynamic functions of IIIF through the Mirador viewer
- 
-Before you begin, try a search to find out if the art institution which houses your artwork is already utilizing IIIF. 
- 
-Here is a website that has a list:
-https://iiif.io/guides/finding_resources/
-but as things change frequently, it may be more useful to just do trial and error to check. 
- 
+
+Before you begin, try a search to find out if the art institution which houses your artwork is already utilizing IIIF. <br>
+[Here is a website](https://iiif.io/guides/finding_resources/) that has a large list of art collecitions around the world. <br>
+However, please note that, as things change frequently, it may be more useful to just do trial and error to check. 
+{: .note}
+
+## Pulling up Images: An Example
+
 For the purpose of this example, we will use the Harvard Art Museum as an example. 
  
 Click on “Collections.”
