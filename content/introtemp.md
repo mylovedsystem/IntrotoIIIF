@@ -9,5 +9,5 @@ Wash your hands frequently
 {: .note}
 
 A paragraph
-{: .highlight }
+{: .highlight}
 
