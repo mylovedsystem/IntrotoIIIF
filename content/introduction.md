@@ -24,13 +24,17 @@ By the end of this module, you will be able to:
 
 ## The Key Purpose of IIIF
 
-In addition to being **a digital tool**, it is helpful to think of the IIIF as **a community**. <br> Museums, educational archives, and libraries are taking part in this community, sharing their visual aids within one tool. IIIF calls this community the _**IIIF Consortium (IIIF-C)**_ 
+In addition to being **a digital tool**, it is helpful to think of the IIIF as **a community**.
+
+Museums, educational archives, and libraries are taking part in this community, sharing their visual aids within one tool. IIIF calls this community the _**IIIF Consortium (IIIF-C)**_ 
+
 
 
 <p style="margin-top:20px;margin-bottom:20px">
 <img src="figures/IIIFConsortium.jpg" width="600" style="margin-left:30px"/>
 </p>
-*Some of the members of the IIIF Consortium*
+*Some of the members of the IIIF Consortium. If you want to take a look at the full list of the consortium members, [click here](https://iiif.io/community/consortium/members/).*
+
 
 
  
