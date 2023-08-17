@@ -8,5 +8,6 @@ nav_order: 5
 Wash your hands frequently
 {: .note}
 
-{: .highlight }
 A paragraph
+{: .highlight }
+
