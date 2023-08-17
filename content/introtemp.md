@@ -4,10 +4,10 @@ title: TEMP TEMP CONTENT
 nav_order: 5
 ---
 
-{: .note-title }
 Wash
-
 Wash your hands frequently
+{: .note-title }
+
 
 
 
