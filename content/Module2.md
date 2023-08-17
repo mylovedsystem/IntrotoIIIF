@@ -67,9 +67,9 @@ IIIF via the Mirador viewer is also quite useful for **comparing and contrasting
 This method of visual presentation is valuable not only for teaching (showing two images side by side), but **also for learning assessment** (such as a slide comparison during a final exam). 
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ6M2hpMW80anI1aGczejY2ZmNzYnFsYjlhM2hyNmJoNDhjcHQ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xZ2qXFeiXBL0yK1UDI/giphy.gif)
+*Example contrasting two versions of Van Gogh's The Bedroom using IIIF's Mirador. Source: [https://www.gallerysystems.com/iiif-what-is-it-and-what-does-it-do/](https://www.gallerysystems.com/iiif-what-is-it-and-what-does-it-do/)
 
 
-
-
+---
 
 In summary, the utility of IIIF encompasses both teaching and learning. 
