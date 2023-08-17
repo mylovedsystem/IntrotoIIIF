@@ -67,7 +67,11 @@ It will open a new window with the drawing set against a dark background.
 
 **You are now viewing the image through IIIF!** The IIIF window has opened through the **Mirador Viewer **
 
-**What is Mirador?**<br> Consider the IIIF object as built by JSON (the name for the file format, or a way to transmit data). Museums and libraries can deliver their images through an IIIF viewer. As noted in Module 2, there are many IIIF viewers, but Mirador is the one that is used by the Harvard Art Museum. UBC, for instance, uses the Open Collections viewer.
+**What is Mirador?**<br> Consider the IIIF object as built by [**JASON**][id1] :
+
+[id1]: ## "The name for the file format, or a way to transmit data"
+
+Museums and libraries can deliver their images through an IIIF viewer. As noted in Module 2, there are many IIIF viewers, but Mirador is the one that is used by the Harvard Art Museum. UBC, for instance, uses the Open Collections viewer.
 {: .note}
 
 ## The Mirador Viewer Interface
