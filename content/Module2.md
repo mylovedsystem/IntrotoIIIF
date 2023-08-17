@@ -54,7 +54,7 @@ The uses of IIIF in the classroom setting are diverse. Particularly through the 
 
 In terms of presenting an image of an artwork on a projector to the class, the instructor can **use IIIF to annotate the image** (identify areas of interest, relay notes etc.) 
 
-<img src="figures/imagen_2023-08-17_001252801.png" width="600" style="margin-left:30px"/>
+<img src="figures/imagen_2023-08-17_002951534.png" width="600" style="margin-left:30px"/>
 *Example of image annotation using IIIF's Mirador viewer (SAS) ? Source: [https://iiif-ml-workshop.netlify.app](https://iiif-ml-workshop.netlify.app)*
 
 
