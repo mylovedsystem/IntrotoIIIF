@@ -113,9 +113,9 @@ The IIIF has four main [**APIs**][id1] :
 
 <br>
 
-**What's an API?** <br> <p style="margin-top:20px;margin-bottom:20px">
+**What's an API?** <br>
 <img src="figures/imagen_2023-08-16_234024079.png" width="600" style="margin-left:30px"/>
-</p> *What is an API (Application Programming Interface)? Source: [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org)*
+*What is an API (Application Programming Interface)? Source: [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org)*
 {: .note}
  
 ---
