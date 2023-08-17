@@ -79,6 +79,20 @@ In a later part of this module, we will be engaging with Mirador, probably the m
 
 The IIIF has four main [**APIs**][another-identifier] :
 
+The IIIF has four main [**APIs**][id1] :
+
+The IIIF has four main [**APIs**](## "your hover text") :
+
+
+### Abbreviation
+The HTML specification
+is maintained by the W3C.
+*[HTML]: Hyper Text Markup Language
+*[W3C]: World Wide Web Consortium
+
+
+[id1]: ## "Application Programming Interface, we can think of APIs as software that transmits information between a user and a website/app"
+
 
 
 
