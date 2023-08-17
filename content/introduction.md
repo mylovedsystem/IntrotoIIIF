@@ -3,6 +3,18 @@ layout: default
 title: Module 1
 nav_order: 2
 ---
+
+<p style="margin-bottom: 20px"></p>
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+ - TOC
+{:toc}
+</details>
+
 # Module 1: What is IIIF?
 
 
@@ -99,12 +111,12 @@ The IIIF has four main [**APIs**][id1] :
 3. **Authentication**: the IIIF has certain restrictions in place to ensure there is a standard underlying the image presentation; this permits a standard of trust for users (in other words, the image you are seeing is **an accurate representation of the artwork**; this is particularly useful for **art students** as they may encounter images online that have been doctored or photoshopped, leaving students uncertain of the accuracy of the image).
 4. **Search**: there are search functions on the image, for instance those permitting the user to s**earch the annotations of the images** and images involving text)
 
-**What's an API?**
+<br>
 
-<p style="margin-top:20px;margin-bottom:20px">
+**What's an API?** <br> <p style="margin-top:20px;margin-bottom:20px">
 <img src="figures/imagen_2023-08-16_234024079.png" width="600" style="margin-left:30px"/>
-</p> *What is an API (Application Programming Interface)? Source: [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org)* 
-
+</p> *What is an API (Application Programming Interface)? Source: [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org)*
+{: .note}
  
 ---
 
