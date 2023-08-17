@@ -16,10 +16,10 @@ By the end of this module, you will be able to:
 3. Recognize the four APIs of IIIF
 
 
-::: {.callout-note}
+
 Activity: Reflection
-Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved?
-:::
+Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved? 
+{: .note}
 
 Activity: Reflection
 Take a few moments to consider the digital tools you have used in the past to look up artworks. What did you like about those tools? What were their limitations? How could they have been improved? {: .prereq}
