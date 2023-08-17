@@ -5,9 +5,9 @@ nav_order: 5
 ---
 
 {: .note-title }
-> Wash
->
-> Wash your hands frequently
+Wash
+
+Wash your hands frequently
 
 
 
