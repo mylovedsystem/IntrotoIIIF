@@ -103,8 +103,7 @@ The IIIF has four main [**APIs**][id1] :
 
 <p style="margin-top:20px;margin-bottom:20px">
 <img src="figures/imagen_2023-08-16_234024079.png" width="600" style="margin-left:30px"/>
-</p>
-*What is an API (Application Programming Interface)? Source: [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org) 
+</p> *What is an API (Application Programming Interface)? Source: [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org)* 
 
  
 ---
