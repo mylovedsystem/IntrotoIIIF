@@ -23,9 +23,9 @@ At this point, you must be wondering **what IIIF is** and what its different fea
 
 By the end of this module, you will be able to:
 
-1. Explain the key purpose of IIIF
-2. Understand the IIIF Manifest
-3. Recognize the four APIs of IIIF
+* Explain the key purpose of IIIF
+* Understand the IIIF Manifest
+* Recognize the four APIs of IIIF
 
 
 
