@@ -80,23 +80,35 @@ Let’s now return to the Toulouse-Lautrec drawing presented by the Mirador view
  
 At the very top of the page, there are four icons:
 
-![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/45102c1d-2415-41bb-bb14-ff5367db5b5b)
+![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/e085ce42-2813-49c6-8e7c-10a72919e8b2)
 
 
+1. The first is labeled **Get JSON.** As noted, this is the name of the file format, which** you can copy and paste**.
+ 
+2. To the right, you will see another icon, **Get Annotations.** If there are any annotations, this is where they will be located.
+ 
+3. The remaining two icons are **Change Layout** and **Full Screen**.
+ 
+4. The line below will state the title of the work “**At the Circus: Jockey (Au cirque: Jockey)**.”
+ 
+5. To the left of the title, there are two icons:
 
-The first is labeled “Get JSON.” As noted, this is the name of the file format, which you can copy and paste.
- 
-To the right, you will see another icon, “Get Annotations.” If there are any annotations, this is where they will be located.
- 
-The remaining two icons are “Change Layout” and “Full Screen.”
- 
-The line below will state the title of the work “At the Circus: Jockey (Au cirque: Jockey)).”
- 
-To the left of the title, there are two icons. If you hover over the first icon, it will drop down to give you the following options: to replace the image with another one, to move it into a left/right/top/bottom slot for image comparison – this is when you have more than one image opened via IIIF and want to see both images at the same time.  
+![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/c8997178-2682-4c6d-98c4-d945cadb52e3)
 
-If you hover over the second icon, it will toggle to open a side panel. In this side panel, there are options for “Index,” “Search” and “Layers.” For the purpose of this module, you can try to adjust the visibility under “Layers” – decreasing the opacity from 100% to less opaque. 
+6. If you hover over **the first icon**, it will drop down to give you the following options:
+
+* To replace the image with another one
+* To move it into a left/right/top/bottom slot for image comparison – this is when you have more than one image opened via IIIF and want to see both images at the same time.  
+
+6. If you hover over **the second icon**, it will toggle to open a side panel. In this side panel, there are options for “Index,” “Search” and “Layers.” For the purpose of this module, you can try to adjust the visibility under “Layers” – decreasing the opacity from 100% to less opaque. 
  
-To the far right of this line, there are three icons. The first permits you to change how you view the image (image view, scroll view, or gallery view). The second icon allows you to “View information/metadata about this object.” This provides details of the image in point form, including the art object’s dimensions or height/weight, and credit line. The third icon permits you to view the image in full screen (identical to the icon directly above it). 
+7. To the far right of this line, there are three icons:
+
+![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/c04f52ef-0a76-4192-91c1-a3fda7b4b53b)
+   
+* The first permits you to change how you view the image (image view, scroll view, or gallery view).
+* The second icon allows you to “View information/metadata about this object.” This provides details of the image in point form, including the art object’s dimensions or height/weight, and credit line.
+* The third icon permits you to view the image in full screen (identical to the icon directly above it). 
 
 
 ---
