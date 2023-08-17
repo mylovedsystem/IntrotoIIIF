@@ -77,7 +77,7 @@ In a later part of this module, we will be engaging with Mirador, probably the m
 
 ## The Four APIs of IIIF
 
-The IIIF has four main [APIs][another-identifier] :
+The IIIF has four main [**APIs**][another-identifier] :
 
 
 
@@ -90,9 +90,9 @@ The IIIF has four main [APIs][another-identifier] :
 
 
 
-1)    The image: comprised of pixels
-2)    Presentation: how the image is presented to the viewer, it will be presented in a format that is highly viewable (in other words, a reasonable size, not difficult to see)
-3)    Authentication: the IIIF has certain restrictions in place to ensure there is a standard underlying the image presentation; this permits a standard of trust for users (in other words, the image you are seeing is an accurate representation of the artwork; this is particularly useful for art students as they may encounter images online that have been doctored or photoshopped, leaving students uncertain of the accuracy of the image)
+1. The image: comprised of pixels
+2. Presentation: how the image is presented to the viewer, it will be presented in a format that is highly viewable (in other words, a reasonable size, not difficult to see)
+3. Authentication: the IIIF has certain restrictions in place to ensure there is a standard underlying the image presentation; this permits a standard of trust for users (in other words, the image you are seeing is an accurate representation of the artwork; this is particularly useful for art students as they may encounter images online that have been doctored or photoshopped, leaving students uncertain of the accuracy of the image)
 4)    Search: there are search functions on the image, for instance those permitting the user to search the annotations of the images and images involving text)
  
 In summary, the IIIF is a digital tool that allows users to view and manipulate images, with an added layer of authenticity (trust). 
