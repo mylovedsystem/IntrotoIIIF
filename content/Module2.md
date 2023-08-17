@@ -29,6 +29,8 @@ By the end of this module, you will be able to:
 IIIF has become **a large digital repository** that allows for **uniform access** to the images that are hosted in the various sites (Consortium members) that cooperate with IIIF. 
  
 Per a document prepared by the **UBC School of Library, Archival and Information Studies** (November 2017), IIIF’s “main value consists in enabling collaboration with other institutions and making possible **linked data initiatives**.” 
+
+### Image Annotation with IIIF
  
 One of the most valuable features of IIIF is **image annotation **.
 
@@ -40,4 +42,25 @@ In other words, you can make notes on the image while you are viewing the image.
 *       The ability to embed another image/media or link directly into the annotation 
 *       The annotation can be given a fill colour 
 
+<img src="figures/imagen_2023-08-17_001252801.png" width="600" style="margin-left:30px"/>
+*Example of image annotation using IIIF's Simple Annotation Server (SAS) ? Source: [https://training.iiif.io](https://training.iiif.io)*
 
+
+## The Utility of IIIF In Classroom Teaching and Presentations
+
+The uses of IIIF in the classroom setting are diverse. Particularly through the **Mirador viewer** (which will be discussed in Module 3), IIIF has great utility in classroom teaching involving visual arts. 
+ 
+### Annotation
+
+In terms of presenting an image of an artwork on a projector to the class, the instructor can **use IIIF to annotate the image** (identify areas of interest, relay notes etc.) 
+
+<img src="figures/imagen_2023-08-17_001252801.png" width="600" style="margin-left:30px"/>
+*Example of image annotation using IIIF's Mirador viewer (SAS) ? Source: [https://iiif-ml-workshop.netlify.app](https://iiif-ml-workshop.netlify.app)*
+
+
+
+ 
+Compare and Contrast:
+IIIF via the Mirador viewer is also useful for comparing and contrasting images, a common form of slide presentation in Art History and other art-related disciplines. This method of visual presentation is valuable not only for teaching (showing two images side by side), but also for learning assessment (such as a slide comparison during a final exam). 
+
+In summary, the utility of IIIF encompasses both teaching and learning. 
