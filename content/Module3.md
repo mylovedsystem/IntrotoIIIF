@@ -68,11 +68,10 @@ It will open a new window with the drawing set against a dark background.
 **You are now viewing the image through IIIF!** The IIIF window has opened through the **Mirador Viewer **
 
 **What is Mirador?**<br> Consider the IIIF object as built by [**JASON**][id1] :
-
-[id1]: ## "The name for the file format, or a way to transmit data"
-
 Museums and libraries can deliver their images through an IIIF viewer. As noted in Module 2, there are many IIIF viewers, but Mirador is the one that is used by the Harvard Art Museum. UBC, for instance, uses the Open Collections viewer.
 {: .note}
+
+[id1]: ## "The name for the file format, or a way to transmit data"
 
 ## The Mirador Viewer Interface
 
@@ -100,9 +99,9 @@ At the very top of the page, there are four icons:
 * To replace the image with another one
 * To move it into a left/right/top/bottom slot for image comparison – this is when you have more than one image opened via IIIF and want to see both images at the same time.  
 
-6. If you hover over **the second icon**, it will toggle to open a side panel. In this side panel, there are options for “Index,” “Search” and “Layers.” For the purpose of this module, you can try to adjust the visibility under “Layers” – decreasing the opacity from 100% to less opaque. 
+7. If you hover over **the second icon**, it will toggle to open a side panel. In this side panel, there are options for “Index,” “Search” and “Layers.” For the purpose of this module, you can try to adjust the visibility under “Layers” – decreasing the opacity from 100% to less opaque. 
  
-7. To the far right of this line, there are three icons:
+8. To the far right of this line, there are three icons:
 
 ![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/c04f52ef-0a76-4192-91c1-a3fda7b4b53b)
    
