@@ -12,3 +12,7 @@ Take a few moments to consider the digital tools you have used in the past to lo
 
 Wash your hands frequently
 {: .note}
+
+
+{: .highlight }
+A paragraph
