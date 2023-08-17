@@ -4,9 +4,12 @@ title: TEMP TEMP CONTENT
 nav_order: 5
 ---
 
+{: .note-title }
+> Wash
+>
+> Wash your hands frequently
 
-Wash your hands frequently
-{: .WASH}
+
 
 A paragraph
 {: .highlight}
