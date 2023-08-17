@@ -13,13 +13,13 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
- callouts:
- highlight:
-   color: yellow
-   opacity: 0.5
- important:
-   title: Important
-   color: green
- note:
-   title: Note
-   color: yellow
+callouts:
+highlight:
+  color: yellow
+  opacity: 0.5
+important:
+  title: Important
+  color: green
+note:
+  title: Notetemp
+  color: blue
