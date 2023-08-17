@@ -67,16 +67,18 @@ It will open a new window with the drawing set against a dark background.
 
 **You are now viewing the image through IIIF!** The IIIF window has opened through the **Mirador Viewer **
 
-**What is Mirador? **<br> Consider the IIIF object as built by JSON (the name for the file format, or a way to transmit data). Museums and libraries can deliver their images through an IIIF viewer. As noted in Module 2, there are many IIIF viewers, but Mirador is the one that is used by the Harvard Art Museum. UBC, for instance, uses the Open Collections viewer.
+**What is Mirador?**<br> Consider the IIIF object as built by JSON (the name for the file format, or a way to transmit data). Museums and libraries can deliver their images through an IIIF viewer. As noted in Module 2, there are many IIIF viewers, but Mirador is the one that is used by the Harvard Art Museum. UBC, for instance, uses the Open Collections viewer.
 {: .note}
 
 ## The Mirador Viewer Interface
 
 Let’s now return to the Toulouse-Lautrec drawing presented by the Mirador viewer on the Harvard Art Museum’s website. 
  
-At the very top of the page, there are four icons. 
+At the very top of the page, there are four icons:
 
-![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/209e743f-c45a-4fc5-b6f7-546a63a3dfa4)
+![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/45102c1d-2415-41bb-bb14-ff5367db5b5b)
+
+
 
 The first is labeled “Get JSON.” As noted, this is the name of the file format, which you can copy and paste.
  
