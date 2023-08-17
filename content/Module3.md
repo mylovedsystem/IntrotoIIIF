@@ -31,18 +31,25 @@ However, please note that, as things change frequently, it may be more useful to
 
 ## Pulling up Images: An Example
 
-For the purpose of this example, we will use the Harvard Art Museum as an example. 
+The following steps will show you how to pull up an image from one of the art collections and how to reuse it through IIIF. 
+
+For the purpose of this example, we will use the **Harvard Art Museum** as an example. Follow these steps:
  
-Click on “Collections.”
- 
+Step 1
+{: .label .label-step}
+Click on “**Collections**.”
+{: .step} 
+
+Step 3
+{: .label .label-step}
 In the search box, type: “Henri de Toulouse-Lautrec At the Circus Jockey,” and press enter.
- 
-This should generate one result: a drawing by Toulouse-Lautrec, titled “At the Circus: Jockey.”
-Click on this result.
- 
-It should take you to a new page featuring this drawing. Beneath the drawing, you will see a number of icons. If you hover over the fifth icon (the IIIF icon), it will state “Reuse via IIIF.” Click on that icon. 
- 
-It will open a new window with the drawing set against a dark background. 
+{: .step}  
+
+
+3. This should generate one result: a drawing by Toulouse-Lautrec, titled “**At the Circus: Jockey**.”
+4. Click on this result. It should take you to a new page featuring this drawing.
+5. Beneath the drawing, you will see a number of icons. If you **hover over the fifth icon** (the IIIF icon), it will state “**Reuse via IIIF**.” Click on that icon. 
+6. It will open a new window with the drawing set against a dark background. 
  
 You are now viewing the image through IIIF!
  
