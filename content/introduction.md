@@ -63,13 +63,45 @@ For the purposes of this module, it is important to understand that **the JSON c
  
 ### IIIF Manifest Viewers 
 
-There are at least a dozen tools to view the IIIF Manifest. Some of the most-widely known and used viewers are:
+There are at least a dozen tools to view the IIIF Manifest that perform different tasks and have different users. Some of the most-widely known and used viewers are:
 
-⋅⋅* Mirador
-⋅⋅* Universal Viewer (UV)
-⋅⋅* Tify
-⋅⋅* IIIF Curation Viewer 
-⋅⋅* Diva.js. 
+* Mirador
+* Universal Viewer (UV)
+* Tify
+* IIIF Curation Viewer 
+* Diva.js. 
 
 
-In a later part of this module, we will be engaging with the viewer known as Mirador. 
+In a later part of this module, we will be engaging with Mirador, probably the most-well known IIIF viewer. 
+
+
+## The Four APIs of IIIF
+
+The IIIF has four main APIs [definition of API: Application Programming Interface, we can think of APIs as software that transmits information between a user and a website/app]:
+
+
+[Text to display][identifier] will display a link.
+
+[Another text][another-identifier] will do the same. Hover the mouse over it to see the title.
+
+[This link] will do the same as well. It works as the identifier itself.
+
+[This link][] (same as above), has a second pair of empty brackets to indicate that the following parenthesis does not contain a link.
+
+<https://example.com> works too. Must be used for explicit links.
+
+<!-- Identifiers, in alphabetical order -->
+
+[another-identifier]: https://example.com "This example has a title"
+[identifier]: http://example1.com
+[this link]: http://example2.com
+
+
+
+1)    The image: comprised of pixels
+2)    Presentation: how the image is presented to the viewer, it will be presented in a format that is highly viewable (in other words, a reasonable size, not difficult to see)
+3)    Authentication: the IIIF has certain restrictions in place to ensure there is a standard underlying the image presentation; this permits a standard of trust for users (in other words, the image you are seeing is an accurate representation of the artwork; this is particularly useful for art students as they may encounter images online that have been doctored or photoshopped, leaving students uncertain of the accuracy of the image)
+4)    Search: there are search functions on the image, for instance those permitting the user to search the annotations of the images and images involving text)
+ 
+In summary, the IIIF is a digital tool that allows users to view and manipulate images, with an added layer of authenticity (trust). 
+
