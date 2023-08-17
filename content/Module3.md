@@ -1,15 +1,28 @@
+---
+layout: default
+title: Module 3
+nav_order: 4
+---
 
+<p style="margin-bottom: 20px"></p>
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+ - TOC
+{:toc}
+</details>
 
+# Module 3: How to Use IIIF (at-a-glance)
 
-
-
-Module 3: How to Use IIIF (at-a-glance)
+Now, let us have a hands-on exploration of IIIF.
  
 By the end of this module, you will be able to:
--       Pull up an image on IIIF using the Mirador viewer 
--       Create an oval annotation on image through IIIF using the Mirador viewer
--       Recognize and be able to use most, if not all, of the dynamic functions of IIIF through the Mirador viewer
+*       Pull up an image on IIIF using the Mirador viewer 
+*       Create an oval annotation on image through IIIF using the Mirador viewer
+*       Recognize and be able to use most, if not all, of the dynamic functions of IIIF through the Mirador viewer
  
 Before you begin, try a search to find out if the art institution which houses your artwork is already utilizing IIIF. 
  
