@@ -24,7 +24,12 @@ By the end of this module, you will be able to:
 
 ## The Key Purpose of IIIF
 
-In addition to being **a digital tool**, it is helpful to think of the IIIF as **a community**. / Museums, educational archives, and libraries are taking part in this community, sharing their visual aids within one tool. 
+In addition to being **a digital tool**, it is helpful to think of the IIIF as **a community**. <br> Museums, educational archives, and libraries are taking part in this community, sharing their visual aids within one tool. IIIF calls this community the _**IIF Consortium (IIIF-C)**_ 
+
+
+
+
+
  
 The IIIF is a digital tool that allows its users to **view images of artworks**, while also conducting various actions with/to the image. 
 
