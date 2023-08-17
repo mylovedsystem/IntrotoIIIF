@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Module 1
-nav_order: 2
+title: Module 2
+nav_order: 3
 ---
 
 <p style="margin-bottom: 20px"></p>
