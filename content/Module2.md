@@ -43,6 +43,7 @@ In other words, you can make notes on the image while you are viewing the image.
 *       The annotation can be given a fill colour 
 
 <img src="figures/imagen_2023-08-17_001252801.png" width="600" style="margin-left:30px"/>
+
 *Example of image annotation using IIIF's Simple Annotation Server (SAS) ? Source: [https://training.iiif.io](https://training.iiif.io)*
 
 
@@ -55,12 +56,14 @@ The uses of IIIF in the classroom setting are diverse. Particularly through the 
 In terms of presenting an image of an artwork on a projector to the class, the instructor can **use IIIF to annotate the image** (identify areas of interest, relay notes etc.) 
 
 <img src="figures/imagen_2023-08-17_002951534.png" width="600" style="margin-left:30px"/>
+
 *Example of image annotation using IIIF's Mirador viewer (SAS) ? Source: [https://iiif-ml-workshop.netlify.app](https://iiif-ml-workshop.netlify.app)*
 
 
+### Compare and Contrast
 
- 
-Compare and Contrast:
-IIIF via the Mirador viewer is also useful for comparing and contrasting images, a common form of slide presentation in Art History and other art-related disciplines. This method of visual presentation is valuable not only for teaching (showing two images side by side), but also for learning assessment (such as a slide comparison during a final exam). 
+IIIF via the Mirador viewer is also quite useful for **comparing and contrasting images**, which is a common form of slide presentation in Art History and other art-related disciplines. 
+
+This method of visual presentation is valuable not only for teaching (showing two images side by side), but **also for learning assessment** (such as a slide comparison during a final exam). 
 
 In summary, the utility of IIIF encompasses both teaching and learning. 
