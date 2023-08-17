@@ -6,8 +6,12 @@ nav_order: 5
 
 
 Wash your hands frequently
-{: .note}
+{: .WASH}
 
 A paragraph
 {: .highlight}
 
+
+
+Don't step on the snails!
+{: .warn}
