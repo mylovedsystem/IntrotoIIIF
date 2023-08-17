@@ -77,24 +77,15 @@ In a later part of this module, we will be engaging with Mirador, probably the m
 
 ## The Four APIs of IIIF
 
-The IIIF has four main APIs [definition of API: Application Programming Interface, we can think of APIs as software that transmits information between a user and a website/app]:
+The IIIF has four main [APIs][another-identifier] :
 
 
-[Text to display][identifier] will display a link.
 
-[Another text][another-identifier] will do the same. Hover the mouse over it to see the title.
-
-[This link] will do the same as well. It works as the identifier itself.
-
-[This link][] (same as above), has a second pair of empty brackets to indicate that the following parenthesis does not contain a link.
-
-<https://example.com> works too. Must be used for explicit links.
 
 <!-- Identifiers, in alphabetical order -->
 
-[another-identifier]: https://example.com "This example has a title"
-[identifier]: http://example1.com
-[this link]: http://example2.com
+[another-identifier]: "definition of API: Application Programming Interface, we can think of APIs as software that transmits information between a user and a website/app"
+
 
 
 
