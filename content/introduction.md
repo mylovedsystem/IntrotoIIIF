@@ -84,7 +84,8 @@ The IIIF has four main [APIs][another-identifier] :
 
 <!-- Identifiers, in alphabetical order -->
 
-[another-identifier]: "definition of API: Application Programming Interface, we can think of APIs as software that transmits information between a user and a website/app"
+[another-identifier]: https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/
+"Application Programming Interface, we can think of APIs as software that transmits information between a user and a website/app"
 
 
 
