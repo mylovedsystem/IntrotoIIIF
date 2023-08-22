@@ -32,4 +32,4 @@ At the end of this workshop, you will be able to:
 ---
  --: **Next Page: [Module 1](https://mylovedsystem.github.io/IntrotoIIIF/content/Module1AA.html)**
 
- <div dir="rtl"> **Next Page: [Module 1](https://mylovedsystem.github.io/IntrotoIIIF/content/Module1AA.html)** </div>
+ <div dir="rtl">**Next Page: [Module 1](https://mylovedsystem.github.io/IntrotoIIIF/content/Module1AA.html)**</div>
