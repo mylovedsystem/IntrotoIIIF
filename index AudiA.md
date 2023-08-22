@@ -30,4 +30,4 @@ At the end of this workshop, you will be able to:
 * [https://web.hypothes.is/](https://web.hypothes.is/)
 
 ---
-  **Next Page: [Module 1](https://mylovedsystem.github.io/IntrotoIIIF/content/Module1AA.html)**
+ --:**Next Page: [Module 1](https://mylovedsystem.github.io/IntrotoIIIF/content/Module1AA.html)**
