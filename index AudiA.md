@@ -29,5 +29,5 @@ At the end of this workshop, you will be able to:
 * [https://archive.org/](https://archive.org/)
 * [https://web.hypothes.is/](https://web.hypothes.is/)
 
-
-                                                                                                                                 **Next Page: Module 1**
+---
+  **Next Page: Module 1**
