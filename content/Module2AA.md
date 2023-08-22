@@ -21,10 +21,29 @@ Now that we know what online annotation is, how it is possible to annotate audio
 
 By the end of this module, you will be able to:
 
-*  Recognize the utility of IIIF in your research
-*  Recognize the utility of IIIF in your classroom teaching and presentations
+*  Follow the necessary steps to use AudiAnnotate
+*  Create a new project
+*  Obtain a shareable GitHub repository containing your annotated version of the audivisual material
 
-## The Utility of IIIF in Art Research
+## Using AudiAnnotate
+
+Please create a [GitHub](https://github.com/) account if you don’t already have one.
+{: .prereq}
+
+To use AudiAnnotate, follow these steps:
+
+### Create an Audiovisual Item
+
+1. Go to the [AudiAnnotate application](http://audiannotate.brumfieldlabs.com)
+2. On the top right corner, click on **Sign in** to access the application with your GitHub account
+   
+![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/a0f2104c-be8e-4d5c-a855-a9e5d777c253)
+
+
+
+Create a **New Project**
+This project will be hosted in your personal GitHub as a repository so you have the full access
+
 
 IIIF has become **a large digital repository** that allows for **uniform access** to the images that are hosted in the various sites (Consortium members) that cooperate with IIIF. 
  
