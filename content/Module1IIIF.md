@@ -122,3 +122,5 @@ The IIIF has four main [**APIs**][id1] :
 
 In summary, the IIIF is a digital tool that allows users to **view**, **compare** and **manipulate** images, with an added layer of authenticity (trust). 
 
+-- 
+Next Page: [**Module 2**](https://mylovedsystem.github.io/IntrotoIIIF/content/Module2IIIF.html)
