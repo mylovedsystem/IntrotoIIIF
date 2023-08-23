@@ -54,14 +54,17 @@ This project will be hosted in your personal GitHub as a repository so you have 
 2. AudiAnnotate will ask you to add metadata associated with your project’s audio or video. First, name this item in the `Label` field. The label refers to the title you want to give to the audiovisual material.
 3. Then, paste the link of your <b>video or audio file</b> in the `​​Audio File URL` field <br>
 
-If you have a file on your computer, but not a URL, upload it to a file-hosting site like [**The Internet Archive**](https://archive.org/){:target="_blank"} or [**Box**](https://box.com/){:target="_blank"}  in order to generate a URL for it.<br>
-AudiAnnotate supports direct links to:<br>
-**Audio**: HTML: MP3, WAV, and OGG.<br>
-**Video**: MP4, WebM, and Ogg<br>
-Make sure these files do not contain sensitive data or information that you do not want to publicize. Open resources like [**The Internet Archive’s Audio Archive**](https://archive.org/details/audio){:target="_blank"} are recommended.
-{: .note} 
-<br>4. Add the duration of the audio or video material. Duration can be input in minutes:seconds ( e.g: 25:50 ) or hours:minutes:seconds ( e.g: 1:10:24 )
-<br>5. Optionally, you may include the Item Homepage URL, the Provider Name and the Provider URL. This information comes from the website you copy the vide URL from.<br>6. Click on **Save**. This will save the metadata you added to this item in the IIIF manifest.
+  If you have a file on your computer, but not a URL, upload it to a file-hosting site like [**The Internet Archive**](https://archive.org/){:target="_blank"} or 
+  [**Box**](https://box.com/){:target="_blank"}  in order to generate a URL for it.<br>
+  AudiAnnotate supports direct links to:<br>
+  **Audio**: HTML: MP3, WAV, and OGG.<br>
+  **Video**: MP4, WebM, and Ogg<br>
+  Make sure these files do not contain sensitive data or information that you do not want to publicize. Open resources like [**The Internet Archive’s Audio 
+  Archive**](https://archive.org/details/audio){:target="_blank"} are recommended.
+  {: .note} 
+4. Add the duration of the audio or video material. Duration can be input in minutes:seconds ( e.g: 25:50 ) or hours:minutes:seconds ( e.g: 1:10:24 )
+5. Optionally, you may include the Item Homepage URL, the Provider Name and the Provider URL. This information comes from the website you copy the vide URL from.
+6. Click on **Save**. This will save the metadata you added to this item in the IIIF manifest.
 
 ### Update an Annotation File
 
