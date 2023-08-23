@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction - IIIF
+title: IIIF
 nav_order: 1
 ---
 
