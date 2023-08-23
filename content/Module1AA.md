@@ -67,4 +67,4 @@ An example of a list of annotations made through AudioAnnotate on an audio mater
 
  
 ---
-**Next Page: Module 2**
+Next Page: [**Module 2**](https://mylovedsystem.github.io/IntrotoIIIF/content/Module2AA.html)
