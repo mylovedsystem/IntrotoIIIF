@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction - AudiAnnotate
+title: AudiAnnotate
 nav_order: 5
 ---
 
