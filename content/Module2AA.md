@@ -86,15 +86,15 @@ Now that you created an Audiovisual item on AudiAnnotate, you can start annotati
    * *Column D*: include any layers or categories used to describe annotation type (e.g., date, speaker, genre, environment, etc.)
    * *Column E*: This column is optional. It is reserved for the index, which is an "end-of-book" list in the project that allows you to pull different         annotations across recordings together on one page in connection with different categories. The index is a separate page, and it will appear in the drop-down menu at the bottom. Capitalization should be normalized.
 
-     ![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/d61fb56d-3c83-4990-9cb4-f54678015822)
-   *Example of the annotation template file with filled out information. Source:* [hipstas.github.io](https://hipstas.github.io/documentation/creating-annotations)
-
+   
 3. Once you fill out the information, download the spreadsheet in TSV, CSV, or XLSX formats
 4. Go back to the AudiAnnotate's page of the project you created. Under `Add Annotation File`, select the annotation file you just created.
 5. Click on `Add` in the same section. AudiAnnotate will now ask you to configure your file so the application knows how to read each column.
    * Use the drop-downs to select the requested information: `start time`, `end time`, `annotation` and `label`
 6. Click on `Process`
 
+  ![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/d61fb56d-3c83-4990-9cb4-f54678015822)
+   *Example of the annotation template file with filled out information. Source:* [hipstas.github.io](https://hipstas.github.io/documentation/creating-annotations)
 
 ### Final Presentation
 
