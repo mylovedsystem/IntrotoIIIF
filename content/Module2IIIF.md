@@ -75,5 +75,5 @@ This method of visual presentation is valuable not only for teaching (showing tw
 
 In summary, the utility of IIIF encompasses both teaching and learning. 
 
---
+---
 Next Page: [**Module 3**](https://mylovedsystem.github.io/IntrotoIIIF/content/Module3IIIF.html)
