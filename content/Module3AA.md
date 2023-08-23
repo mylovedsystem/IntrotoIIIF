@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Module 3
+title: Extra: Hypothesis
 nav_order: 8
 ---
 
@@ -15,7 +15,7 @@ nav_order: 8
 {:toc}
 </details>
 
-# Module 3: Using Hypothesis
+# Extra: Using Hypothesis
 
 
 [**Hypothesis**](https://web.hypothes.is/){:target="_blank"} is a way of** adding comments**, **questions**, or **feedback** to any online content, such as web pages, documents, or videos. 
