@@ -30,5 +30,5 @@ At the end of this workshop, you will be able to:
 ## Resources
 * [IIIF resources](https://iiif.io/guides/finding_resources/)
 
--- 
+--- 
 Next Page: [**Module 1**](https://mylovedsystem.github.io/IntrotoIIIF/content/Module1IIIF.html)
