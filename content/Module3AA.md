@@ -18,7 +18,7 @@ nav_order: 8
 # Extra: Using Hypothesis
 
 
-[**Hypothesis**](https://web.hypothes.is/){:target="_blank"} is a way of** adding comments**, **questions**, or **feedback** to any online content, such as web pages, documents, or videos. 
+[**Hypothesis**](https://web.hypothes.is/){:target="_blank"} is a way of **adding comments**, **questions**, or **feedback** to any online content, such as web pages, documents, or videos. 
 
 It is a form of **social annotation**, which means that you can share your annotations with others and see what they have annotated as well. 
 
