@@ -76,18 +76,18 @@ Now that you created an Audiovisual item on AudiAnnotate, you can start annotati
 1. Go to this Google Sheets [template](https://docs.google.com/spreadsheets/d/1KdGD0iGzwT4PL8k93ysexStsM-vM_BKTWhvDXJxQ8Pk/copy){:target="_blank"} and make a copy of it in your own drive by clicking on **Make a copy**
 2. The template has 5 columns. Fill them out by taking into account the following criteria:
 
-* *Column A*: type the annotation’s start time (in total seconds or HR:MIN:SEC format)
-* *Column B*: type the annotation’s end time (in total seconds or HR:MIN:SEC format)
+        * *Column A*: type the annotation’s start time (in total seconds or HR:MIN:SEC format)
+        * *Column B*: type the annotation’s end time (in total seconds or HR:MIN:SEC format)
   
-Column A and Column B may be the same point in time or different points in time for a range
-{: .note}
+        Column A and Column B may be the same point in time or different points in time for a range
+        {: .note}
 
-* *Column C*: type your annotation (e.g., transcript, description, speaker name)
-* *Column D*: include any layers or categories used to describe annotation type (e.g., date, speaker, genre, environment, etc.)
-* *Column E*: This column is optional. It is reserved for the index, which is an "end-of-book" list in the project that allows you to pull different annotations across recordings together on one page in connection with different categories. The index is a separate page, and it will appear in the drop-down menu at the bottom. Capitalization should be normalized.
+        * *Column C*: type your annotation (e.g., transcript, description, speaker name)
+        * *Column D*: include any layers or categories used to describe annotation type (e.g., date, speaker, genre, environment, etc.)
+        * *Column E*: This column is optional. It is reserved for the index, which is an "end-of-book" list in the project that allows you to pull different annotations across recordings together on one page in connection with different categories. The index is a separate page, and it will appear in the drop-down menu at the bottom. Capitalization should be normalized.
 
-![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/d61fb56d-3c83-4990-9cb4-f54678015822)
-*Example of the annotation template file with filled out information. Source:* [hipstas.github.io](https://hipstas.github.io/documentation/creating-annotations)
+        ![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/d61fb56d-3c83-4990-9cb4-f54678015822)
+        *Example of the annotation template file with filled out information. Source:* [hipstas.github.io](https://hipstas.github.io/documentation/creating-annotations)
 
 3. Once you fill out the information, download the spreadsheet in TSV, CSV, or XLSX formats
 4. Go back to the AudiAnnotate's page of the project you created. Under `Add Annotation File`, select the annotation file you just created.
