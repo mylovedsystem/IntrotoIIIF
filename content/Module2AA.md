@@ -51,72 +51,63 @@ This project will be hosted in your personal GitHub as a repository so you have 
 ### Create an Audiovisual Item
 
 1. In the project you just created, click on **Create Item Manifest**
-2. AudiAnnotate will ask you to add metadata associated with your project’s audio. Paste the link of your <b>video or audio file</b> in the `​​Audio File URL` field
+2. AudiAnnotate will ask you to add metadata associated with your project’s audio or video. First, name this item in the `Label` field. The label refers to the title you want to give to the audiovisual material.
+3. Then, paste the link of your <b>video or audio file</b> in the `​​Audio File URL` field
 
 
-If you have a file on your computer, but not a URL, upload it to a file-hosting site like [**The Internet Archive**](https://archive.org/){:target="_blank"} or [**Box**](https://box.com/){:target="_blank"}  in order to generate a URL for it. 
-AudiAnnotate supports direct links to:
+If you have a file on your computer, but not a URL, upload it to a file-hosting site like [**The Internet Archive**](https://archive.org/){:target="_blank"} or [**Box**](https://box.com/){:target="_blank"}  in order to generate a URL for it.<br>
+AudiAnnotate supports direct links to:<br>
 **Audio**: HTML: MP3, WAV, and OGG.
-**Video**: MP4, WebM, and Ogg
-Make sure these files do not contain sensitive data or information that you do not want to publicize. Open resources like [**The Internet Archive’s Audio Archive**](https://archive.org/details/audio){:target="_blank"} are recommended. 
+**Video**: MP4, WebM, and Ogg<br>
+Make sure these files do not contain sensitive data or information that you do not want to publicize. Open resources like [**The Internet Archive’s Audio Archive**](https://archive.org/details/audio){:target="_blank"} are recommended.
 {: .note} 
 
+4. Add the duration of the audio or video material. Duration can be input in minutes:seconds ( e.g: 25:50 ) or hours:minutes:seconds ( e.g: 1:10:24 )
+5. Optionally, you may include the Item Homepage URL, the Provider Name and the Provider URL. This information comes from the website you copy the vide URL from.
+6. Click on **Save**. This will save the metadata you added to this item in the IIIF manifest.
+
+### Update an Annotation File
+
+Now that you created an Audiovisual item on AudiAnnotate, you can start annotating it at your wish. To do so, you will need to create an annotation file by following the next steps:
+
+1. Go to this Google Sheets [template](https://docs.google.com/spreadsheets/d/1KdGD0iGzwT4PL8k93ysexStsM-vM_BKTWhvDXJxQ8Pk/copy){:target="_blank"} and make a copy of it in your own drive by clicking on **Make a copy**
+2. The template has 5 columns. Fill them out by taking into account the following criteria:
+
+* *Column A*: type the annotation’s start time (in total seconds or HR:MIN:SEC format)
+* *Column B*: type the annotation’s end time (in total seconds or HR:MIN:SEC format)
+  
+Column A and Column B may be the same point in time or different points in time for a range
+{: .note}
+
+* *Column C*: type your annotation (e.g., transcript, description, speaker name)
+* *Column D*: include any layers or categories used to describe annotation type (e.g., date, speaker, genre, environment, etc.)
+* *Column E*: This column is optional. It is reserved for the index, which is an "end-of-book" list in the project that allows you to pull different annotations across recordings together on one page in connection with different categories. The index is a separate page, and it will appear in the drop-down menu at the bottom. Capitalization should be normalized.
+
+![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/d61fb56d-3c83-4990-9cb4-f54678015822)
+*Example of the annotation template file with filled out information. Source:* [hipstas.github.io](https://hipstas.github.io/documentation/creating-annotations)
+
+3. Once you fill out the information, download the spreadsheet in TSV, CSV, or XLSX formats
+4. Go back to the AudiAnnotate's page of the project you created. Under `Add Annotation File`, select the annotation file you just created.
+5. Click on `Add` in the same section. AudiAnnotate will now ask you to configure your file so the application knows how to read each column.
+   * Use the drop-downs to select the requested information: `start time`, `end time`, `annotation` and `label`
+6. Click on `Process`
 
 
-Name this item in the `Label` field
-Save
+### Final Presentation
+
+The project will be showcased on a webpage, which can be accessed from the project homepage: *The GitHub Pages site for ______ is* 
+
+The webpage will feature subpages with audiovisual content or explanatory text which can be sharable and easily accessible.
+
+
+![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/ba8c2213-645b-4ea6-8498-ce90d80153a0)
+*Example of a AudiAnnotate-created project webpage showing an audio material and related annotations. Source: [Library of Congress Blogs](https://blogs.loc.gov/thesignal/2022/08/collaborations-with-embedded-audio-metadata-reusing-cue-chunk-data-for-iiif-web-annotations/)
 
 
 
 
-
-
-
-IIIF has become **a large digital repository** that allows for **uniform access** to the images that are hosted in the various sites (Consortium members) that cooperate with IIIF. 
- 
-Per a document prepared by the **UBC School of Library, Archival and Information Studies** (November 2017), IIIF’s “main value consists in enabling collaboration with other institutions and making possible **linked data initiatives**.” 
-
-### Image Annotation with IIIF
- 
-One of the most valuable features of IIIF is **image annotation **.
-
-In other words, you can make notes on the image while you are viewing the image. This includes:
-
-*       The ability to draw directly on the image
-*       In an oval, rectangular, freeform, or polygonal shape (size and dimensions determined by the user), you can write text within that created shape
-*       The text can be bold, italic, or set to a colour; text can be indented to the left or right 
-*       The ability to embed another image/media or link directly into the annotation 
-*       The annotation can be given a fill colour 
-
-<img src="figures/imagen_2023-08-17_001252801.png" width="600" style="margin-left:30px"/>
-
-*Example of image annotation using IIIF's Simple Annotation Server (SAS). Source: [https://training.iiif.io](https://training.iiif.io)*
-
-
-## The Utility of IIIF In Classroom Teaching and Presentations
-
-The uses of IIIF in the classroom setting are diverse. Particularly through the **Mirador viewer** (which will be discussed in Module 3), IIIF has great utility in classroom teaching involving visual arts. 
- 
-### Annotation
-
-In terms of presenting an image of an artwork on a projector to the class, the instructor can **use IIIF to annotate the image** (identify areas of interest, relay notes etc.) 
-
-<img src="figures/imagen_2023-08-17_002951534.png" width="600" style="margin-left:30px"/>
-
-*Example of image annotation using IIIF's Mirador viewer. Source: [https://iiif-ml-workshop.netlify.app](https://iiif-ml-workshop.netlify.app)*
-
-
-### Compare and Contrast
-
-IIIF via the Mirador viewer is also quite useful for **comparing and contrasting images**, which is a common form of slide presentation in Art History and other art-related disciplines. 
-
-This method of visual presentation is valuable not only for teaching (showing two images side by side), but **also for learning assessment** (such as a slide comparison during a final exam). 
-
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ6M2hpMW80anI1aGczejY2ZmNzYnFsYjlhM2hyNmJoNDhjcHQ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xZ2qXFeiXBL0yK1UDI/giphy.gif)
-
-*Example contrasting two versions of Van Gogh's The Bedroom using IIIF's Mirador. Source: [https://www.gallerysystems.com/iiif-what-is-it-and-what-does-it-do/](https://www.gallerysystems.com/iiif-what-is-it-and-what-does-it-do/)*
 
 
 ---
 
-In summary, the utility of IIIF encompasses both teaching and learning. 
+
