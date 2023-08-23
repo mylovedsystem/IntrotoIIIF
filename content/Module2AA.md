@@ -32,17 +32,47 @@ Please create a [GitHub](https://github.com/) account if you don’t already hav
 
 To use AudiAnnotate, follow these steps:
 
-### Create an Audiovisual Item
+### Log in on AudiAnnotate and Create a New Project
 
 1. Go to the [AudiAnnotate application](http://audiannotate.brumfieldlabs.com)
 2. On the top right corner, click on **Sign in** to access the application with your GitHub account
    
 ![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/a0f2104c-be8e-4d5c-a855-a9e5d777c253)
 
+3. GitHub will ask you to authorize AudiAnnotate to use your GitHub account. Click on the **Authorize** green-coloured button and then enter your password.
+4. You should land on a page with the following icon as the only content. Click on **New Project**
+
+![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/85bde92d-2c19-46d5-9f76-3b503ffe6bd4)
+
+5. You will be asked to create a title, a project description and a project slug (the project's GitHub repository name). Fill out the boxed and click on **Create Project**
+
+This project will be hosted in your personal GitHub as a repository so you have the full access.
+
+### Create an Audiovisual Item
+
+1. In the project you just created, click on **Create Item Manifest**
+2. AudiAnnotate will ask you to add metadata associated with your project’s audio. Paste the link of your <b>video or audio file</b> in the `​​Audio File URL` field
 
 
-Create a **New Project**
-This project will be hosted in your personal GitHub as a repository so you have the full access
+If you have a file on your computer, but not a URL, upload it to a file-hosting site like [**The Internet Archive**](https://archive.org/) or [**Box**](https://box.com/){:target="_blank"}  in order to generate a URL for it. 
+
+AudiAnnotate supports direct links to:
+
+**Audio**: HTML: MP3, WAV, and OGG.
+**Video**: MP4, WebM, and Ogg
+
+Make sure these files do not contain sensitive data or information that you do not want to publicize. Open resources like [**The Internet Archive’s Audio Archive**](https://archive.org/details/audio){:target="_blank"} are recommended. 
+{: .note} 
+
+
+
+Name this item in the `Label` field
+Save
+
+
+
+
+
 
 
 IIIF has become **a large digital repository** that allows for **uniform access** to the images that are hosted in the various sites (Consortium members) that cooperate with IIIF. 
