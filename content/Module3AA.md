@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Extra: Hypothesis
+title: Extra - Hypothesis
 nav_order: 8
 ---
 
