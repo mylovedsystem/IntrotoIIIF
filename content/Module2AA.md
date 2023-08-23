@@ -60,10 +60,12 @@ AudiAnnotate supports direct links to:<br>
 **Video**: MP4, WebM, and Ogg<br>
 Make sure these files do not contain sensitive data or information that you do not want to publicize. Open resources like [**The Internet Archive’s Audio Archive**](https://archive.org/details/audio){:target="_blank"} are recommended.
 {: .note}
-
-<br> 4. Add the duration of the audio or video material. Duration can be input in minutes:seconds ( e.g: 25:50 ) or hours:minutes:seconds ( e.g: 1:10:24 ) 
-<br> 5. Optionally, you may include the Item Homepage URL, the Provider Name and the Provider URL. This information comes from the website you copy the vide URL from. 
-<br> 6. Click on **Save**. This will save the metadata you added to this item in the IIIF manifest.
+<br>
+4. Add the duration of the audio or video material. Duration can be input in minutes:seconds ( e.g: 25:50 ) or hours:minutes:seconds ( e.g: 1:10:24 )
+<br>
+5. Optionally, you may include the Item Homepage URL, the Provider Name and the Provider URL. This information comes from the website you copy the vide URL from.
+<br>
+6. Click on **Save**. This will save the metadata you added to this item in the IIIF manifest.
 
 ### Update an Annotation File
 
