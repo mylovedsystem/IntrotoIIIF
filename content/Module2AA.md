@@ -57,7 +57,7 @@ This project will be hosted in your personal GitHub as a repository so you have 
 
 If you have a file on your computer, but not a URL, upload it to a file-hosting site like [**The Internet Archive**](https://archive.org/){:target="_blank"} or [**Box**](https://box.com/){:target="_blank"}  in order to generate a URL for it.<br>
 AudiAnnotate supports direct links to:<br>
-**Audio**: HTML: MP3, WAV, and OGG.
+**Audio**: HTML: MP3, WAV, and OGG.<br>
 **Video**: MP4, WebM, and Ogg<br>
 Make sure these files do not contain sensitive data or information that you do not want to publicize. Open resources like [**The Internet Archive’s Audio Archive**](https://archive.org/details/audio){:target="_blank"} are recommended.
 {: .note} 
