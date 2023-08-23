@@ -56,7 +56,7 @@ Annotating a text document is a basic activity that allows reviewers to give fee
 
 **AudiAnnotate** is a tool that lets you **add annotation to audio or video files**. It does this by linking the file with the comments in a sensible way. 
 
-You can then share, present, and reuse the commented version with others, without changing the original file.
+You can then **share**, **present**, and **reuse** the commented version with others, without changing the original file.
 
 ![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/da3a3676-6d34-4194-964f-de917874d1d9)
 *An example of a list of annotations made through AudioAnnotate on an audio material. Source:* [reviewsindh.pubpub.org](https://reviewsindh.pubpub.org/pub/audiannotate/release/4)
