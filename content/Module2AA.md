@@ -112,5 +112,5 @@ The webpage will feature subpages with audiovisual content or explanatory text w
 
 
 ---
-
+Next Page: [**Extra: Hypothesis**](https://mylovedsystem.github.io/IntrotoIIIF/content/Module2IIIF.html)
 
