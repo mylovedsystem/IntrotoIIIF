@@ -100,11 +100,10 @@ Now that you created an Audiovisual item on AudiAnnotate, you can start annotati
 
 The project will be showcased on a webpage, which can be accessed from the project homepage: *The GitHub Pages site for ______ is* 
 
-The webpage will feature subpages with audiovisual content or explanatory text which can be sharable and easily accessible.
-
+The webpage will feature subpages that contain audiovisual content and list your annotations and timestamps, making your audio or video more discoverable and accessible. In addition to the audiovisual content, you can also create pages that contain photos and text that explains the project.
 
 ![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/ba8c2213-645b-4ea6-8498-ce90d80153a0)
-*Example of a AudiAnnotate-created project webpage showing an audio material and related annotations. Source: [Library of Congress Blogs](https://blogs.loc.gov/thesignal/2022/08/collaborations-with-embedded-audio-metadata-reusing-cue-chunk-data-for-iiif-web-annotations/)
+*Example of a AudiAnnotate-created project webpage showing an audio material and related annotations. Source:* [Library of Congress Blogs](https://blogs.loc.gov/thesignal/2022/08/collaborations-with-embedded-audio-metadata-reusing-cue-chunk-data-for-iiif-web-annotations/)
 
 
 
