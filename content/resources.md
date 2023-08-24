@@ -15,3 +15,12 @@ Román Amigo, Carolina. “IIIF: Use Cases for UBC Open Collections.” UBC SLAI
 Uchitelle, Danielle. “IIIF, eMuseum, TMS Citations, and You.” Gallery Systems. [https://www.gallerysystems.com/iiif-what-is-it-and-what-does-it-do/](https://www.gallerysystems.com/iiif-what-is-it-and-what-does-it-do/)
  
 University of Wisconsin, Milwaukee. “Digital Collection Toolkit: IIIF Viewers – Mirador.” UWM Libraries. [https://guides.library.uwm.edu/c.php?g=1066592&p=7763582](https://guides.library.uwm.edu/c.php?g=1066592&p=7763582)
+
+Getting Started with AudiAnnotate
+[https://hipstas.github.io/documentation/](https://hipstas.github.io/documentation/)
+
+IIIF Workshop: AudiAnnotate Extensible Workflow for Sharing Annotated AV Using IIIF
+[https://youtu.be/2w3CP6DvaT8?si=Z8hd3dNaB_0FhoKt](https://youtu.be/2w3CP6DvaT8?si=Z8hd3dNaB_0FhoKt) 
+
+AV Annotation
+[https://ubc-library-rc.github.io/av-annotation/](https://ubc-library-rc.github.io/av-annotation/)
