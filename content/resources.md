@@ -16,11 +16,11 @@ Uchitelle, Danielle. “IIIF, eMuseum, TMS Citations, and You.” Gallery System
  
 University of Wisconsin, Milwaukee. “Digital Collection Toolkit: IIIF Viewers – Mirador.” UWM Libraries. [https://guides.library.uwm.edu/c.php?g=1066592&p=7763582](https://guides.library.uwm.edu/c.php?g=1066592&p=7763582)
 
-Getting Started with AudiAnnotate
+Getting Started with AudiAnnotate <br> 
 [https://hipstas.github.io/documentation/](https://hipstas.github.io/documentation/)
 
-IIIF Workshop: AudiAnnotate Extensible Workflow for Sharing Annotated AV Using IIIF
+IIIF Workshop: AudiAnnotate Extensible Workflow for Sharing Annotated AV Using IIIF <br>
 [https://youtu.be/2w3CP6DvaT8?si=Z8hd3dNaB_0FhoKt](https://youtu.be/2w3CP6DvaT8?si=Z8hd3dNaB_0FhoKt) 
 
-AV Annotation
+AV Annotation <br>
 [https://ubc-library-rc.github.io/av-annotation/](https://ubc-library-rc.github.io/av-annotation/)
