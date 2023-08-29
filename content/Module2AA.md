@@ -96,9 +96,13 @@ Now that you created an Audiovisual item on AudiAnnotate, you can start annotati
   ![image](https://github.com/mylovedsystem/IntrotoIIIF/assets/140271862/d61fb56d-3c83-4990-9cb4-f54678015822)
    *Example of the annotation template file with filled out information. Source:* [hipstas.github.io](https://hipstas.github.io/documentation/creating-annotations)
 
+
 ### Final Presentation
 
 The project will be showcased on a webpage, which can be accessed from the project homepage: *The GitHub Pages site for ______ is* 
+
+The presentation will take around 15 minutes to be produced. If you encounter an error after click on site link, it is likely due to this waiting time.
+{: .note}
 
 The webpage will feature subpages that contain audiovisual content and list your annotations and timestamps, making your audio or video more discoverable and accessible. In addition to the audiovisual content, you can also create pages that contain photos and text that explains the project.
 
