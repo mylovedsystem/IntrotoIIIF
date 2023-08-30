@@ -2,6 +2,7 @@
 layout: default
 title: IIIF
 nav_order: 1
+has_children: true
 ---
 
 # The International Image Interoperability Framework: An Introduction for Graduate Students in the Visual Arts
