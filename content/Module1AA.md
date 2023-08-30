@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Module 1
-nav_order: 6
+nav_order: 1
+parent:AudiAnnotate
 ---
 
 <p style="margin-bottom: 20px"></p>
