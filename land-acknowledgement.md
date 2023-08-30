@@ -1,9 +1,9 @@
-nav_exclude: true
 
 ---
 layout: default
 nav_order: 2
 title: Land acknowledgement 
+
 ---
 # Land acknowledgement
 
