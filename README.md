@@ -1,5 +1,3 @@
-nav_exclude: true
-
 # Introduction to IIIF and AudiAnnotate
 ### UBC Library Research Commons
 
