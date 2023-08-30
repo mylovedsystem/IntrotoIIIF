@@ -1,7 +1,8 @@
 ---
 layout: default
 title: AudiAnnotate
-nav_order: 5
+nav_order: 2
+has_children: true
 ---
 
 # AudiAnnotate: An Introduction for UBC Students 
