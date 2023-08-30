@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bibliographic Citations and References
-nav_order: 9
+nav_order: 3
 ---
 
 # Bibliographic Citations and References
