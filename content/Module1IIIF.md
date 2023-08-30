@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Module 1
-nav_order: 2
+nav_order: 1
+parent: IIIF
 ---
 
 <p style="margin-bottom: 20px"></p>
@@ -18,7 +19,7 @@ nav_order: 2
 # Module 1: What is IIIF?
 
 
-At this point, you must be wondering **what IIIF is** and what its different feautures are. **Module 1** will walk you through the basics of the IIIF digital tool!
+At this point, you must be wondering **what IIIF is** and what its different features are. **Module 1** will walk you through the basics of the IIIF digital tool!
 
 
 By the end of this module, you will be able to:
