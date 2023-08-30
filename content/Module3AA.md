@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Extra - Hypothesis
-nav_order: 8
+nav_order: 3
+parent: AudiAnnotate
 ---
 
 <p style="margin-bottom: 20px"></p>
