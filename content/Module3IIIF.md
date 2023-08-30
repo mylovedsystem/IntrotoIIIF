@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Module 3
-nav_order: 4
+nav_order: 3
+parent: IIF
 ---
 
 <p style="margin-bottom: 20px"></p>
